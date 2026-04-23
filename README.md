@@ -29,5 +29,5 @@ Weather Diary - это desktop-приложение с графическим и
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone 
+git clone https://github.com/Alex-new8963/Code.git
 cd weather-diary
